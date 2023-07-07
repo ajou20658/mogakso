@@ -7,6 +7,6 @@
 ### 최준태 : https://github.com/chlwnsxo00/SongSSam/tree/main
 
 ### 김우영 : https://www.notion.so/2dad19ec0320444aba9d937c7fa30816
-#### 백엔드 repository : https://github.com/ajou20658/SongSSam-backend
+#### 백엔드 repository : [https://github.com/ajou20658/SongSSam-backend](https://github.com/ajou20658/songssam-backend)
 
 ### 정동구 : https://github.com/dongguJeong/mogakso-frontend.git
