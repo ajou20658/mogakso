@@ -15,6 +15,6 @@
 ## 2주차 활용 내용
 ## 2주차 활동 내용 링크 : https://www.notion.so/2-03745ce6e3f042929bd2dbe93bef4c8e
 ### 최경주 : https://factual-earwig-905.notion.site/556dfa462d264f508533891e39854e23?pvs=4
-### 최준태 :
+### 최준태 : 
 ### 김우영 :
 ### 정동구 : 
