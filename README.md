@@ -16,5 +16,5 @@
 ## 2주차 활동 내용 링크 : https://www.notion.so/2-03745ce6e3f042929bd2dbe93bef4c8e
 ### 최경주 : https://factual-earwig-905.notion.site/556dfa462d264f508533891e39854e23?pvs=4
 ### 최준태 : https://github.com/chlwnsxo00/SongSSam/tree/main
-### 김우영 :
+### 김우영 : https://www.notion.so/2dad19ec0320444aba9d937c7fa30816
 ### 정동구 : 
