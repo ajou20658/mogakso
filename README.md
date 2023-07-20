@@ -17,4 +17,5 @@
 ### 최경주 : https://factual-earwig-905.notion.site/556dfa462d264f508533891e39854e23?pvs=4
 ### 최준태 : https://github.com/chlwnsxo00/SongSSam/tree/main
 ### 김우영 : https://www.notion.so/2dad19ec0320444aba9d937c7fa30816
+#### 2주차 백엔드 repository : https://github.com/ajou20658/song_server
 ### 정동구 : https://shadowed-foe-9c8.notion.site/2023-07-16-51a874e67d634be7a0d8ade3e5b0d846?pvs=4
