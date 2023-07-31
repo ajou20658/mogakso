@@ -26,4 +26,4 @@
 ### 최경주 :
 ### 최준태 : 
 ### 김우영 : https://www.notion.so/2dad19ec0320444aba9d937c7fa30816
-### 정동구 : 
+### 정동구 : https://shadowed-foe-9c8.notion.site/2023-07-31-a5a77eb272a64365945142c9ce438ea8?pvs=4
