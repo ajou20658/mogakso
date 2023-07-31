@@ -25,5 +25,5 @@
 ## 3주차 활용내용 링크 : https://www.notion.so/3-7-30-5709c544b6ad4e96a69f7fff1b47f58b
 ### 최경주 :
 ### 최준태 : 
-### 김우영 :
+### 김우영 : https://www.notion.so/2dad19ec0320444aba9d937c7fa30816
 ### 정동구 : 
