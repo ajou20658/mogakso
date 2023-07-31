@@ -23,7 +23,7 @@
 
 ## 3주차 활용 내용
 ## 3주차 활용내용 링크 : https://www.notion.so/3-7-30-5709c544b6ad4e96a69f7fff1b47f58b
-### 최경주 :
+### 최경주 : https://factual-earwig-905.notion.site/556dfa462d264f508533891e39854e23?pvs=4
 ### 최준태 : 
 ### 김우영 : https://www.notion.so/2dad19ec0320444aba9d937c7fa30816
 ### 정동구 : https://shadowed-foe-9c8.notion.site/2023-07-31-a5a77eb272a64365945142c9ce438ea8?pvs=4
