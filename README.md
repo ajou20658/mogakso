@@ -32,3 +32,4 @@
 ## 4주차 활동내용 링크 : https://tough-receipt-ee1.notion.site/4-8-7-2937b9fa9541477db6873d9a5f9db1a7?pvs=4
 ### 최경주 : https://factual-earwig-905.notion.site/556dfa462d264f508533891e39854e23?pvs=4
 ### 최준태 : https://github.com/chlwnsxo00/SongSSam/tree/main
+### 김우영 : https://www.notion.so/2dad19ec0320444aba9d937c7fa30816
